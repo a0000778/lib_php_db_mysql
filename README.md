@@ -6,6 +6,7 @@ MySQL通用函數庫
 支援
 - mysql
 - PDO
+- mysqli
 
 licenses/授權
 MIT License
