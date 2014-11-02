@@ -1,7 +1,7 @@
 <?php
 /***************************************
-MySQL通用函數庫 v2.1 for PDO by a0000778
-授權採用 CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/deed)
+MySQL通用函數庫 v2.2 for PDO by a0000778
+MIT License
 ***************************************/
 class DB{
 	private $dblink;
