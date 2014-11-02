@@ -59,7 +59,7 @@ class DB{
 			if(is_numeric($v)) $sql=substr_replace($sql,$v,$at,1);
 			else $sql=substr_replace($sql,'\''.$this->dblink->real_escape_string($v).'\'',$at,1);
 		}
-		return $this->dblink->query($sql,$this->dblink);
+		return $this->dblink->query($sql);
 	}
 	function update($table,$data=array(),$where='',$wherearg=array()){
 		$d='';
