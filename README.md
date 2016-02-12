@@ -12,4 +12,4 @@ licenses/授權
 MIT License
 
 使用方法參考
-http://code.a0000778.coms.hk/#plugin/php!page=plugin/PHP/lib_DB
+http://code.a0000778.idv.biz/#plugin/php!page=plugin/PHP/lib_DB
